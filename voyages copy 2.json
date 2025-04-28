@@ -1,0 +1,453 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "nom": "Voyage de groupe"
+    },
+    {
+      "id": 2,
+      "nom": "Voyage en individuel"
+    },
+    {
+      "id": 3,
+      "nom": "Circuit"
+    },
+    {
+      "id": 4,
+      "nom": "Croisière"
+    }
+  ],
+  "voyages": [
+    {
+      "id": 1,
+      "nom": "Découverte de Paris, la ville des lumières",
+      "photo": "https://media.timeout.com/images/106251733/1372/772/image.webp",
+      "categId": 1,
+      "destination": "France",
+      "prix": [5280, 5180, 6100],
+      "remise": 0,
+      "duree": 6,
+      "description": "Découvrez Paris en 6 jours : explorez la Tour Eiffel, le Louvre et Notre-Dame, flânez à Montmartre et sur les Champs-Élysées, naviguez sur la Seine, et savourez la gastronomie française. Profitez de quartiers emblématiques comme Le Marais et Saint-Germain, avec une escapade possible à Versailles. Un mélange parfait de culture, histoire et romance. Itinéraire modulable selon vos envies !",
+      "depart": "15/06/2025",
+      "complet": false,
+      "offre": [
+        "Vol Tunis - Paris - Tunis",
+        "5 Nuités dans un hôtel 3 étoiles en LPD",
+        "Transfert Aéroport-Hôtel-Aéroport"
+      ],
+      "horsOffre": [
+        "Frais de Visa",
+        "Timbre de voyage et Assurance de voyage",
+        "Dépenses à caractère personnel"
+      ]
+    },
+    {
+      "id": 2,
+      "nom": "Séjour balnéaire à Djerba",
+      "photo": "https://www.voyage-tunisie.com/cdn/tn-public/musee_patrimoine_djerba-MAX-w1000h600.jpg",
+      "categId": 2,
+      "destination": "Tunisie",
+      "prix": [2200, 2000, 2500],
+      "remise": 10,
+      "duree": 5,
+      "description": "Profitez d'un séjour détente dans les plus belles plages de Djerba, avec des hôtels luxueux et des activités nautiques. Découvrez la culture locale avec une visite du musée du patrimoine et du souk traditionnel.",
+      "depart": "10/07/2025",
+      "complet": false,
+      "offre": [
+        "Excursion en bateau inclus"
+      ],
+      "horsOffre": [
+        "Activités optionnelles",
+        "Dépenses personnelles"
+      ]
+    },
+    {
+      "id": 3,
+      "nom": "Circuit Espagne-Portugal",
+      "photo": "https://static.lematin.ma/files/lematin/images/articles/2020/10/e78f16a8d67da83c16cc6c1fd4ae7f1e.jpg",
+      "categId": 3,
+      "destination": "Espagne-Portugal",
+      "prix": [5800, 5650, 6100],
+      "remise": 0,
+      "duree": 7,
+      "description": "Un circuit passionnant à travers les villes emblématiques de Barcelone, Madrid, Lisbonne et Porto. Découvrez l'architecture, la gastronomie et l'histoire de ces deux pays.",
+      "depart": "20/08/2025",
+      "complet": false,
+      "offre": [
+        "Transport en bus climatisé",
+        "Hébergement en hôtels 3 et 4 étoiles en DP",
+        "Visites guidées incluses"
+      ],
+      "horsOffre": [
+        "Repas non mentionnés",
+        "Pourboires et dépenses personnelles"
+      ]
+    },
+    {
+      "id": 4,
+      "nom": "Croisière Méditerranée Orientale",
+      "photo": "https://www.revueconflits.com/wp-content/uploads/2024/09/SIPA_01153992_000006-scaled.jpg",
+      "categId": 4,
+      "destination": "Grèce-Italie-Turquie",
+      "prix": [9000, 8500, 10000],
+      "remise": 5,
+      "duree": 7,
+      "description": "Une croisière luxueuse avec escales à Santorin, Mykonos, Venise et Istanbul. Profitez des paysages époustouflants, des plages paradisiaques et des sites historiques.",
+      "depart": "05/09/2025",
+      "complet": false,
+      "offre": [
+        "Cabine tout inclus avec service premium",
+        "Spectacles et animations à bord"
+      ],
+      "horsOffre": [
+        "Excursions",
+        "Spa et services supplémentaires"
+      ]
+    },
+    {
+      "id": 5,
+      "nom": "Voyage de groupe à Istanbul",
+      "photo": "https://cdn.britannica.com/58/93158-050-7719EB2B/view-Blue-Mosque-Istanbul-Hagia-Sophia.jpg",
+      "categId": 1,
+      "destination": "Turquie",
+      "prix": [3800, 3550, 4200],
+      "remise": 0,
+      "duree": 7,
+      "description": "Explorez Istanbul, entre Europe et Asie, avec ses mosquées majestueuses, ses bazars animés et sa cuisine savoureuse. Visitez Sainte-Sophie, la Mosquée Bleue et le Palais de Topkapi.",
+      "depart": "12/8/2025",
+      "complet": false,
+      "offre": [
+        "Vol inclus",
+        "Hébergement en hôtel 4 étoiles",
+        "Transferts et visites guidées"
+      ],
+      "horsOffre": [
+        "Frais d'entrée aux musées",
+        "Dépenses personnelles"
+      ]
+    },
+    {
+      "id": 6,
+      "nom": "Séjour romantique à Venise",
+      "photo": "https://www.guidesulysse.com/imageswebp/destinations/iStock_74122745_LARGE.webp",
+      "categId": 2,
+      "destination": "Italie",
+      "prix": [5500, 5300, 5950],
+      "remise": 0,
+      "duree": 5,
+      "description": "Un voyage en amoureux à Venise, la ville des canaux. Promenez-vous en gondole, découvrez la place Saint-Marc et dégustez une cuisine italienne raffinée.",
+      "depart": "14/02/2026",
+      "complet": false,
+      "offre": [
+        "Vol et hébergement en hôtel boutique",
+        "Dîner aux chandelles inclus",
+        "Balade en gondole offerte"
+      ],
+      "horsOffre": [
+        "Activités supplémentaires",
+        "Assurance voyage"
+      ]
+    },
+
+      {
+        "id": 7,
+        "nom": "Marrakech Express",
+        "photo": "https://www.guidesulysse.com/imageswebp/destinations/iStock-530236509.webp",
+        "categId": 2,
+        "destination": "Maroc",
+        "prix": [3700, 3500, 3900],
+        "remise": 0,
+        "duree": 5,
+        "description": "Souk et palais marocains.",
+        "depart": "15/12/2025",
+        "complet": false,
+        "offre": ["Vol", "Riad"],
+        "horsOffre": ["Pourboires"]
+      },
+      {
+        "id": 8,
+        "nom": "Barcelone, la perle de l'Espagne",
+        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPRgSGvnL8MXW_79e4zK00o9c1_AkEA2M_NQ&s",
+        "categId": 2,
+        "destination": "Espagne",
+        "prix": [4200, 4000, 4500],
+        "remise": 10,
+        "duree": 5,
+        "description": "Découvrez Barcelone avec la célèbre Rambla, La Sagrada Familia et plein d'endrois incontournables",
+        "depart": "10/01/2026",
+        "complet": false,
+        "offre": ["Transfert", "Hôtel en LPD"],
+        "horsOffre": ["Repas", "Dépenses personnelles"]
+      },
+      {
+        "id": 9,
+        "nom": "Croisière Norvège",
+        "photo": "https://www.norvege-inedite.com/uploads/sites/32/2019/06/adobestock_199823897-1-1-1912x520-c-58x65.jpeg",
+        "categId": 4,
+        "destination": "Norvège",
+        "prix": [11000, 10500, 12000],
+        "remise": 0,
+        "duree": 7,
+        "description": "Fjords et aurores boréales.",
+        "depart": "20/02/2026",
+        "complet": false,
+        "offre": ["Cabine vue mer", "All inclusive"],
+        "horsOffre": ["Excursions"]
+      },
+      {
+        "id": 10,
+        "nom": "Séjour Dubaï",
+        "photo": "https://mediaim.expedia.com/destination/9/cd8a3f3db7149b0ce36d052aea1182df.jpg?impolicy=fcrop&w=1040&h=580&q=mediumHigh",
+        "categId": 1,
+        "destination": "Emirats Arabes Unis",
+        "prix": [6000, 5500, 6900],
+        "remise": 0,
+        "duree": 5,
+        "description": "Désert et gratte-ciels.",
+        "depart": "05/03/2026",
+        "complet": false,
+        "offre": ["Vol", "Hôtel 5* en LPD"],
+        "horsOffre": ["Activités"]
+      },
+        {
+          "id": 11,
+          "nom": "Bangkok Aventure",
+          "photo": "https://example.com/bangkok.jpg",
+          "categId": 1,
+          "destination": "Thaïlande",
+          "prix": [6500, 6000, 7000],
+          "remise": 5,
+          "duree": 6,
+          "description": "Découverte des temples et marchés flottants.",
+          "depart": "15/04/2026",
+          "complet": false,
+          "offre": ["Vol", "Hôtel 4*"],
+          "horsOffre": ["Visites guidées"]
+        },
+        {
+          "id": 12,
+          "nom": "Pyramides d'Égypte",
+          "photo": "https://example.com/egypte.jpg",
+          "categId": 3,
+          "destination": "Égypte",
+          "prix": [7000, 6500, 7500],
+          "remise": 0,
+          "duree": 7,
+          "description": "Circuit historique au Caire et Louxor.",
+          "depart": "10/05/2026",
+          "complet": false,
+          "offre": ["Guide francophone", "Hôtels 4*"],
+          "horsOffre": ["Bateau Nil"]
+        },
+        {
+          "id": 13,
+          "nom": "Vancouver Nature",
+          "photo": "https://example.com/vancouver.jpg",
+          "categId": 2,
+          "destination": "Canada",
+          "prix": [8500, 8000, 9000],
+          "remise": 10,
+          "duree": 5,
+          "description": "Randonnées et paysages côtiers.",
+          "depart": "20/06/2026",
+          "complet": false,
+          "offre": ["Vol", "Hébergement"],
+          "horsOffre": ["Location voiture"]
+        },
+        {
+          "id": 14,
+          "nom": "Croisière Maldives",
+          "photo": "https://example.com/maldives.jpg",
+          "categId": 4,
+          "destination": "Maldives",
+          "prix": [15000, 14500, 16000],
+          "remise": 0,
+          "duree": 8,
+          "description": "Plages de sable blanc et snorkeling.",
+          "depart": "05/07/2026",
+          "complet": false,
+          "offre": ["Cabine avec terrasse"],
+          "horsOffre": ["Plongée"]
+        },
+        {
+          "id": 15,
+          "nom": "Séjour Berlin",
+          "photo": "https://example.com/berlin.jpg",
+          "categId": 1,
+          "destination": "Allemagne",
+          "prix": [5500, 5200, 6000],
+          "remise": 0,
+          "duree": 4,
+          "description": "Histoire et culture à Berlin.",
+          "depart": "12/08/2026",
+          "complet": false,
+          "offre": ["Vol", "Hôtel central"],
+          "horsOffre": ["Musées"]
+        },
+        {
+          "id": 16,
+          "nom": "Rio Carnival",
+          "photo": "https://example.com/rio.jpg",
+          "categId": 2,
+          "destination": "Brésil",
+          "prix": [9000, 8500, 9500],
+          "remise": 15,
+          "duree": 6,
+          "description": "Fête et plages de Copacabana.",
+          "depart": "10/02/2026",
+          "complet": false,
+          "offre": ["Vol", "Hôtel 3*"],
+          "horsOffre": ["Billets carnaval"]
+        },
+        {
+          "id": 17,
+          "nom": "Circuit Vietnam-Cambodge",
+          "photo": "https://example.com/vietnam.jpg",
+          "categId": 3,
+          "destination": "Vietnam-Cambodge",
+          "prix": [9500, 9000, 10000],
+          "remise": 5,
+          "duree": 12,
+          "description": "Hanoi, Angkor Wat et delta du Mékong.",
+          "depart": "15/09/2026",
+          "complet": false,
+          "offre": ["Transport", "Hôtels"],
+          "horsOffre": ["Vol international"]
+        },
+        {
+          "id": 18,
+          "nom": "Croisière Danube",
+          "photo": "https://example.com/danube.jpg",
+          "categId": 4,
+          "destination": "Autriche-Hongrie",
+          "prix": [11000, 10500, 11500],
+          "remise": 0,
+          "duree": 7,
+          "description": "De Vienne à Budapest en bateau.",
+          "depart": "20/10/2026",
+          "complet": false,
+          "offre": ["Pension complète"],
+          "horsOffre": ["Excursions"]
+        },
+        {
+          "id": 19,
+          "nom": "Safari Kenya",
+          "photo": "https://example.com/kenya.jpg",
+          "categId": 1,
+          "destination": "Kenya",
+          "prix": [12000, 11500, 12500],
+          "remise": 10,
+          "duree": 8,
+          "description": "Parcs nationaux et Big Five.",
+          "depart": "05/11/2026",
+          "complet": false,
+          "offre": ["Lodge", "Guide"],
+          "horsOffre": ["Vol international"]
+        },
+        {
+          "id": 20,
+          "nom": "Weekend Prague",
+          "photo": "https://example.com/prague.jpg",
+          "categId": 2,
+          "destination": "République Tchèque",
+          "prix": [4000, 0, 4500],
+          "remise": 0,
+          "duree": 3,
+          "description": "Charme médiéval et bières locales.",
+          "depart": "12/12/2026",
+          "complet": false,
+          "offre": ["Vol", "Hôtel"],
+          "horsOffre": ["Visites"]
+        },
+      {
+        "id": 51,
+        "nom": "Paris Tour Eiffel",
+        "photo": "https://example.com/paris.jpg",
+        "categId": 1,
+        "destination": "France",
+        "prix": [5000, 4800, 5500],
+        "remise": 0,
+        "duree": 5,
+        "description": "Découverte de Paris avec visite de la Tour Eiffel.",
+        "depart": "15/06/2025",
+        "complet": false,
+        "offre": ["Vol", "Hôtel 3*"],
+        "horsOffre": ["Visa"]
+      },
+      {
+        "id": 52,
+        "nom": "Plages de Bali",
+        "photo": "https://example.com/bali.jpg",
+        "categId": 2,
+        "destination": "Indonésie",
+        "prix": [8000, 7500, 8500],
+        "remise": 10,
+        "duree": 7,
+        "description": "Séjour balnéaire dans un resort luxueux.",
+        "depart": "10/07/2025",
+        "complet": false,
+        "offre": ["Vol + hôtel 4*"],
+        "horsOffre": ["Activités"]
+      },
+      {
+        "id": 53,
+        "nom": "Circuit Rome-Venise",
+        "photo": "https://example.com/italie.jpg",
+        "categId": 3,
+        "destination": "Italie",
+        "prix": [9000, 8500, 9500],
+        "remise": 5,
+        "duree": 8,
+        "description": "Découverte des trésors italiens.",
+        "depart": "20/08/2025",
+        "complet": false,
+        "offre": ["Transport", "Guides"],
+        "horsOffre": ["Repas"]
+      },
+      {
+        "id": 54,
+        "nom": "Croisière Grece",
+        "photo": "https://example.com/grece.jpg",
+        "categId": 4,
+        "destination": "Grèce",
+        "prix": [12000, 11500, 13000],
+        "remise": 0,
+        "duree": 7,
+        "description": "Escales à Santorin et Mykonos.",
+        "depart": "05/09/2025",
+        "complet": false,
+        "offre": ["Cabine tout inclus"],
+        "horsOffre": ["Spa"]
+      },
+      {
+        "id": 55,
+        "nom": "Tokyo Modern",
+        "photo": "https://example.com/tokyo.jpg",
+        "categId": 2,
+        "destination": "Japon",
+        "prix": [9500, 9000, 10000],
+        "remise": 0,
+        "duree": 6,
+        "description": "Découverte de Tokyo et Kyoto.",
+        "depart": "12/10/2025",
+        "complet": false,
+        "offre": ["Vol", "Hôtel"],
+        "horsOffre": ["Transport"]
+      },
+      {
+        "id": 56,
+        "nom": "New York City Tour",
+        "photo": "https://example.com/nyc.jpg",
+        "categId": 1,
+        "destination": "USA",
+        "prix": [8500, 8000, 9000],
+        "remise": 5,
+        "duree": 4,
+        "description": "Visite de Manhattan et Brooklyn.",
+        "depart": "01/11/2025",
+        "complet": false,
+        "offre": ["Vol", "Hôtel 3*"],
+        "horsOffre": ["Musées"]
+      }    
+  ]
+}
