@@ -71,8 +71,8 @@
       "remise": 0,
       "duree": 7,
       "description": "Un circuit passionnant à travers les villes emblématiques de Barcelone, Madrid, Lisbonne et Porto. Découvrez l'architecture, la gastronomie et l'histoire de ces deux pays.",
-      "depart": "20/06/2025",
-      "complet": true,
+      "depart": "20/08/2025",
+      "complet": false,
       "offre": [
         "Transport en bus climatisé",
         "Hébergement en hôtels 3 et 4 étoiles en DP",
@@ -114,8 +114,8 @@
       "remise": 0,
       "duree": 7,
       "description": "Explorez Istanbul, entre Europe et Asie, avec ses mosquées majestueuses, ses bazars animés et sa cuisine savoureuse. Visitez Sainte-Sophie, la Mosquée Bleue et le Palais de Topkapi.",
-      "depart": "12/7/2025",
-      "complet": true,
+      "depart": "12/8/2025",
+      "complet": false,
       "offre": [
         "Vol inclus",
         "Hébergement en hôtel 4 étoiles",
@@ -135,8 +135,8 @@
       "prix": [5500, 5300, 5950],
       "remise": 0,
       "duree": 5,
-      "description": "Un voyage à Venise, la ville des canaux. Promenez-vous en gondole, découvrez la place Saint-Marc et dégustez une cuisine italienne raffinée.",
-      "depart": "14/12/2025",
+      "description": "Un voyage en amoureux à Venise, la ville des canaux. Promenez-vous en gondole, découvrez la place Saint-Marc et dégustez une cuisine italienne raffinée.",
+      "depart": "14/02/2026",
       "complet": false,
       "offre": [
         "Vol et hébergement en hôtel boutique",
@@ -250,7 +250,7 @@
           "duree": 10,
           "description": "Randonnées et paysages côtiers.",
           "depart": "20/06/2025",
-          "complet": true,
+          "complet": false,
           "offre": ["Vol", "Hébergement"],
           "horsOffre": ["Location voiture"]
         },
@@ -310,7 +310,7 @@
           "duree": 12,
           "description": "Hanoi, Angkor Wat et delta du Mékong.",
           "depart": "15/09/2026",
-          "complet": true,
+          "complet": false,
           "offre": ["Transport", "Hôtels"],
           "horsOffre": ["Dépenses personnelles", "Excursions"]
         },
@@ -360,7 +360,7 @@
           "horsOffre": ["Visites"]
         },
       {
-        "id": 21,
+        "id": 51,
         "nom": "Paris Tour Eiffel",
         "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuIhmhSMBC44mycWicjO6jHLghQWEmzksW4Q&s",
         "categId": 1,
@@ -375,7 +375,7 @@
         "horsOffre": ["Visa"]
       },
       {
-        "id": 22,
+        "id": 52,
         "nom": "Plages de Bali",
         "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWyjlP-bbnNr9mWSm4reG8khducnLTMrZrNw&s",
         "categId": 2,
@@ -390,7 +390,7 @@
         "horsOffre": ["Activités"]
       },
       {
-        "id": 23,
+        "id": 53,
         "nom": "Circuit Rome-Venise",
         "photo": "https://www.donatello.fr/wp-content/uploads/2019/03/venise-gondole.jpg",
         "categId": 3,
@@ -405,7 +405,7 @@
         "horsOffre": ["Repas"]
       },
       {
-        "id": 24,
+        "id": 54,
         "nom": "Croisière dans les îles grecques",
         "photo": "https://www.ebookers.fr/blog-voyage/wp-content/uploads/2015/11/iStock_000020749020_Double.jpg",
         "categId": 4,
@@ -420,7 +420,7 @@
         "horsOffre": ["Spa"]
       },
       {
-        "id": 25,
+        "id": 55,
         "nom": "Tokyo Modern",
         "photo": "https://media.cntraveller.com/photos/6343df288d5d266e2e66f082/16:9/w_2560%2Cc_limit/tokyoGettyImages-1031467664.jpeg",
         "categId": 2,
@@ -435,7 +435,7 @@
         "horsOffre": ["Transport"]
       },
       {
-        "id": 26,
+        "id": 56,
         "nom": "New York City Tour",
         "photo": "https://www.europusa.com/wp-content/uploads/2018/11/visiter-New-York.jpg",
         "categId": 1,
@@ -448,486 +448,6 @@
         "complet": false,
         "offre": ["Vol", "Hôtel 3*"],
         "horsOffre": ["Musées"]
-      },
-      {
-        "id": 27,
-        "nom": "Séjour enchanteur en Provence",
-        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRXOa8WhQAM4WlwHac5thKfUmZpzQdlndjmQ&s",
-        "categId": 1,
-        "destination": "France",
-        "prix": [4800, 4600, 5500],
-        "remise": 10,
-        "duree": 5,
-        "description": "Découvrez la Provence en 5 jours : explorez les champs de lavande, visitez Avignon et son palais des Papes, dégustez des vins dans les vignobles de Châteauneuf-du-Pape, et flânez dans les marchés colorés d'Aix-en-Provence. Un voyage sensoriel entre nature et culture.",
-        "depart": "10/07/2025",
-        "complet": false,
-        "offre": [
-          "Vol Tunis - Marseille - Tunis",
-          "4 Nuités dans un hôtel 4 étoiles en demi-pension",
-          "Excursion dans les villages de Provence"
-        ],
-        "horsOffre": [
-          "Frais de Visa Schengen",
-          "Assurance voyage optionnelle",
-          "Activités supplémentaires"
-        ]
-      },
-      {
-        "id": 28,
-        "nom": "Aventure andalouse en Espagne",
-        "photo": "https://www.guidesulysse.com/imageswebp/destinations/GrenadeiStock-502816858.webp",
-        "categId": 2,
-        "destination": "Espagne",
-        "prix": [4200, 4000, 4900],
-        "remise": 15,
-        "duree": 7,
-        "description": "Explorez l'Andalousie en 7 jours : découvrez l'Alhambra de Grenade, la mosquée-cathédrale de Cordoue, les arènes de Séville et les plages de Costa del Sol. Plongez dans la culture flamenca et savourez les tapas typiques. Un mélange parfait d'histoire et de détente.",
-        "depart": "05/09/2025",
-        "complet": false,
-        "offre": [
-          "Vol Tunis - Malaga - Tunis",
-          "6 Nuités en hôtels 3-4 étoiles",
-          "Visites guidées des monuments principaux"
-        ],
-        "horsOffre": [
-          "Frais de repas non inclus",
-          "Entrées dans certains monuments",
-          "Transport local supplémentaire"
-        ]
-      },
-      {
-        "id": 29,
-        "nom": "Découverte des temples d'Angkor",
-        "photo": "https://www.guidesulysse.com/imageswebp/destinations/iStock-944343802.webp",
-        "categId": 3,
-        "destination": "Cambodge",
-        "prix": [9500, 9200, 10500],
-        "remise": 0,
-        "duree": 8,
-        "description": "Voyage culturel de 8 jours au Cambodge : explorez les temples majestueux d'Angkor Wat, découvrez la vie locale sur le Tonlé Sap, visitez Phnom Penh et son histoire émouvante. Une immersion totale dans la culture khmère avec des paysages à couper le souffle.",
-        "depart": "15/11/2025",
-        "complet": false,
-        "offre": [
-          "Vol Tunis - Siem Reap - Tunis via Bangkok",
-          "7 Nuités en hôtels 3-4 étoiles",
-          "Guide francophone pour les visites"
-        ],
-        "horsOffre": [
-          "Visa cambodgien (35$)",
-          "Pourboires et dépenses personnelles",
-          "Assurance voyage obligatoire"
-        ]
-      },
-      {
-        "id": 30,
-        "nom": "Road trip en Californie",
-        "photo": "https://www.jeparsauxusa.com/wp-content/uploads/2017/11/californie.jpg",
-        "categId": 4,
-        "destination": "USA",
-        "prix": [14000, 14500, 15500],
-        "remise": 5,
-        "duree": 10,
-        "description": "Road trip de 10 jours en Californie : découvrez Los Angeles, San Francisco, la route côtière du Pacifique et les parcs nationaux comme Yosemite. Des plages de Santa Monica au Golden Gate Bridge, vivez l'American Dream avec des paysages variés et des villes dynamiques.",
-        "depart": "01/05/2026",
-        "complet": false,
-        "offre": [
-          "Vol Tunis - Los Angeles - Tunis",
-          "Location de voiture pour 9 jours",
-          "9 Nuités en hôtels et motels"
-        ],
-        "horsOffre": [
-          "Frais de visa américain (160$)",
-          "Essence et péages",
-          "Repas et activités optionnelles"
-        ]
-      },
-      {
-        "id": 31,
-        "nom": "Escapade romantique à Barcelone",
-        "photo": "https://barcelonesite.fr/images/barcelone.jpg",
-        "categId": 1,
-        "destination": "Espagne",
-        "prix": [3800, 3600, 4400],
-        "remise": 20,
-        "duree": 4,
-        "description": "Week-end prolongé de 4 jours à Barcelone : admirez les œuvres de Gaudí comme la Sagrada Familia et le Park Güell, flânez sur les Ramblas, dégustez des tapas et profitez des plages méditerranéennes. Une escapade urbaine parfaite mélangeant culture, gastronomie et détente.",
-        "depart": "12/11/2025",
-        "complet": false,
-        "offre": [
-          "Vol Tunis - Barcelone - Tunis",
-          "3 Nuités en hôtel 4 étoiles centre-ville en LPD",
-          "Visite guidée de la Sagrada Familia"
-        ],
-        "horsOffre": [
-          "Taxe de séjour (environ 2€/nuit)",
-          "Transport local",
-          "Dépenses personnelles"
-        ]
-      },
-      {
-        "id": 32,
-        "nom": "Croisière Méditerranée : Barcelone, Marseille & Rome",
-        "photo": "https://www.monacruises.com//html/images/croisiere/BarceloneCivitavecchiaRome_itineraire_1660817629.png",
-        "categId": 4,
-        "destination": "France-Espagne-Italie",
-        "prix": [8500, 8200, 9500],
-        "remise": 10,
-        "duree": 7,
-        "description": "7 jours de croisière luxueuse en Méditerranée : départ de Barcelone, escales à Marseille (France), Gênes (Italie), et Rome (Civitavecchia). Profitez des paysages côtiers, de la gastronomie locale et des visites culturelles. Navire 5* avec piscine, spectacles et restaurants variés.",
-        "depart": "20/06/2025",
-        "complet": false,
-        "offre": [
-          "Vol Tunis - Barcelone - Tunis inclus",
-          "Cabine standard avec vue sur mer",
-          "Pension complète à bord",
-          "Spectacles et animations"
-        ],
-        "horsOffre": [
-          "Excursions optionnelles à terre",
-          "Boissons non incluses",
-          "Pourboires (recommandés)"
-        ]
-      } ,
-      {
-        "id": 33,
-        "nom": "Croisière Caraïbes : Miami, Cozumel & Bahamas",
-        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYm0PQ0rMkMOqoUYT5zUdkzarCpxNhhKOS3g&s",
-        "categId": 4,
-        "destination": "USA-Mexique",
-        "prix": [15000, 14500, 17000],
-        "remise": 5,
-        "duree": 8,
-        "description": "8 jours de croisière paradisiaque au départ de Miami : escales à Cozumel (Mexique), Nassau (Bahamas) et CocoCay (île privée). Plages de sable blanc, snorkeling et détente absolue. Navire moderne avec spa, casino et clubs VIP.",
-        "depart": "10/08/2025",
-        "complet": true,
-        "offre": [
-          "Vol Tunis - Miami - Tunis (via Europe)",
-          "Cabine extérieure avec balcon",
-          "Restaurants illimités à bord",
-          "Accès aux piscines et activités"
-        ],
-        "horsOffre": [
-          "Visa américain (ESTA) et frais consulaires",
-          "Excursions en mer (plongée, etc.)",
-          "Assurance voyage obligatoire"
-        ]
-      } ,
-      {
-        "id": 34,
-        "nom": "Croisière Bretagne & Cornouailles",
-        "photo": "https://lordjimcroisieres.com/wp-content/uploads/2015/04/Mousehole-1024x469.png",
-        "categId": 4,
-        "destination": "France-Grande Bretagne",
-        "prix": [8200, 7900, 9000],
-        "remise": 0,
-        "duree": 5,
-        "description": "5 jours de croisière côtière entre la Bretagne (France) et l'Angleterre : escales à Saint-Malo, Guernesey et Plymouth. Découvrez les falaises spectaculaires, les ports historiques et la cuisine de terroir. Petit navire intimiste avec guide francophone.",
-        "depart": "15/09/2025",
-        "complet": false,
-        "offre": [
-          "Départ depuis Le Havre (France)",
-          "Cabine intérieure standard",
-          "Petit-déjeuner et dîner inclus",
-          "Conférences sur l'histoire maritime"
-        ],
-        "horsOffre": [
-          "Transfert Tunis - Le Havre (non inclus)",
-          "Boissons à bord",
-          "Activités optionnelles à terre"
-        ]
-      },
-      {
-        "id": 35,
-        "nom": "Croisière Adriatique : Venise, Dubrovnik & Santorin",
-        "photo": "https://vivreathenes.com/wp-content/uploads/2025/03/croisieres-mp.jpg",
-        "categId": 4,
-        "destination": "Italie-Croatie-Grèce",
-        "prix": [9500, 9200, 11000],
-        "remise": 12,
-        "duree": 9,
-        "description": "9 jours de croisière entre joyaux de l'Adriatique et des Cyclades : départ de Venise, escales à Split (Croatie), Corfou (Grèce) et Santorin. Villes médiévales, eaux turquoises et couchers de soleil inoubliables. Navire 4* avec spa et excursions culturelles.",
-        "depart": "05/07/2025",
-        "complet": false,
-        "offre": [
-          "Vol Tunis - Venise - Tunis inclus",
-          "Cabine avec vue sur mer",
-          "Pension complète + buffet à volonté",
-          "Soirées thématiques (Greek Night)"
-        ],
-        "horsOffre": [
-          "Taxes portuaires (à régler à bord)",
-          "Visites guidées optionnelles",
-          "Dépenses personnelles à terre"
-        ]
-      },
-      {
-        "id": 36,
-        "nom": "Croisière Îles Grecques & Côte Turque",
-        "photo": "https://vivreathenes.com/wp-content/uploads/2022/07/mykonos-moulins-1000x797.jpg",
-        "categId": 4,
-        "destination": "Grèce-Turquie",
-        "prix": [7800, 7500, 8800],
-        "remise": 8,
-        "duree": 6,
-        "description": "6 jours de croisière entre la Grèce et la Turquie : départ d'Athènes (Pirée), escales à Mykonos, Kusadasi (Éphèse) et Rhodes. Mythologie, sites antiques et villages blancs. Navire confortable avec piscine et animations musicales.",
-        "depart": "22/08/2025",
-        "complet": false,
-        "offre": [
-          "Vol Tunis - Athènes - Tunis inclus",
-          "Cabine extérieure (sans balcon)",
-          "Repas et collations à bord",
-          "Spectacles folkloriques"
-        ],
-        "horsOffre": [
-          "Frais de visa turc (si nécessaire)",
-          "Excursions archéologiques (optionnelles)",
-          "Pourboires (environ 10€/jour)"
-        ]
-      },
-      {
-        "id": 37,
-        "nom": "Trésors de France : De Paris aux Châteaux de la Loire",
-        "photo": "https://news.sextantfrance.fr/wp-content/uploads/2020/04/AdobeStock_306210015-1.jpeg",
-        "categId": 3,
-        "destination": "France",
-        "prix": [6500, 6200, 7200],
-        "remise": 10,
-        "duree": 8,
-        "description": "8 jours pour explorer les joyaux de la France : Paris (Tour Eiffel, Louvre), visite des plages du Débarquement en Normandie, découverte des châteaux de Chambord et Chenonceau, et dégustation de vins dans la vallée de la Loire. Hébergement en hôtels 3* et 4* avec petits-déjeuners inclus.",
-        "depart": "05/06/2025",
-        "complet": true,
-        "offre": [
-          "Vol Tunis - Paris - Tunis inclus",
-          "Transport en bus climatisé",
-          "7 nuits en hôtels 3-4* (petit-déjeuner)",
-          "Guide francophone accompagnateur",
-          "Visites des châteaux de Chambord et Chenonceau"
-        ],
-        "horsOffre": [
-          "Déjeuners et dîners (libres ou optionnels)",
-          "Entrées dans certains musées",
-          "Assurance voyage (recommandée)"
-        ]
-      } ,
-      {
-        "id": 38,
-        "nom": "Grand Tour d'Italie : Art, Histoire & Dolce Vita",
-        "photo": "https://travelmasters.ca/tracyyoung/wp-content/uploads/sites/151/2022/06/venice-florence-pisa-rome-300x241.jpg",
-        "categId": 3,
-        "destination": "Italie",
-        "prix": [7800, 7500, 8600],
-        "remise": 5,
-        "duree": 10,
-        "description": "10 jours pour un voyage inoubliable à travers l'Italie : Rome (Colisée, Vatican), Florence (Duomo, Galerie des Offices), et Venise (canaux, place Saint-Marc). Dégustation de vins toscans et découverte de la gastronomie locale. Logement en hôtels centraux 4*.",
-        "depart": "15/06/2025",
-        "complet": true,
-        "offre": [
-          "Vol Tunis - Rome - Venise - Tunis inclus",
-          "Transport en train et bus privé",
-          "9 nuits en hôtels 4* (petit-déjeuner)",
-          "Visite guidée du Vatican et de la Chapelle Sixtine",
-          "Excursion à Pise (Tour penchée)"
-        ],
-        "horsOffre": [
-          "Repas de midi et soir (sauf 1 dîner à Florence)",
-          "Taxe de séjour à Venise (environ 5€/nuit)",
-          "Activités optionnelles (gondole, etc.)"
-        ]
-      } ,
-      {
-        "id": 39,
-        "nom": "Mosaïque Turque : Entre Orient et Occident",
-        "photo": "https://www.imtilakgroup.com/cdn-cgi/image/format=auto,fit=contain/https://imt-assets.fra1.digitaloceanspaces.com/Safaraq/posts/e3ad4813fad60fcb177f1db5a45eab2be7Z_968TbR.jpg",
-        "categId": 3,
-        "destination": "Turquie",
-        "prix": [5100, 4700, 6000],
-        "remise": 15,
-        "duree": 7,
-        "description": "7 jours pour découvrir la Turquie : Istanbul (Sainte-Sophie, Grand Bazar), vol en montgolfière en Cappadoce, et bains thermaux à Pamukkale. Nuits dans des hôtels typiques et une cave-hôtel en Cappadoce. Circuit alliant histoire, paysages uniques et saveurs locales.",
-        "depart": "10/10/2025",
-        "complet": false,
-        "offre": [
-          "Vol Tunis - Istanbul - Tunis inclus",
-          "Transport interne (avion + bus)",
-          "6 nuits en hôtels 3-4* (demi-pension)",
-          "Vol en montgolfière (option inclus en promo)",
-          "Guide francophone expert"
-        ],
-        "horsOffre": [
-          "Pourboires (guides et chauffeurs)",
-          "Boissons lors des repas",
-          "Visa électronique (20$)"
-        ]
-      },
-      {
-        "id": 40,
-        "nom": "Espagne Authentique : Flamenco, Féria & Patrimoine",
-        "photo": "https://fr.maps-spain.com/img/0/espagne-drapeau-carte.jpg",
-        "categId": 3,
-        "destination": "Espagne",
-        "prix": [6000, 5700, 6900],
-        "remise": 8,
-        "duree": 9,
-        "description": "9 jours à travers l'Espagne : Madrid (musée du Prado), Tolède (ville médiévale), Séville (Alcazar), Grenade (Alhambra), et Cordoue (mosquée-cathédrale). Soirée flamenco incluse et dégustation de tapas. Hébergement en hôtels charme 3* et 4*.",
-        "depart": "28/05/2025",
-        "complet": true,
-        "offre": [
-          "Vol Tunis - Madrid - Tunis inclus",
-          "Transport en bus climatisé",
-          "8 nuits en hôtels 3-4* (petit-déjeuner)",
-          "Entrée à l'Alhambra et à la Mosquée de Cordoue",
-          "Spectacle de flamenco à Séville"
-        ],
-        "horsOffre": [
-          "Repas (sauf 1 dîner avec spectacle)",
-          "Taxes locales dans certains hôtels",
-          "Dépenses personnelles (shopping, etc.)"
-        ]
-      },
-      {
-        "id": 41,
-        "nom": "Portugal de Lisbonne aux Douro",
-        "photo": "https://madeinmarseille.net/actualites-marseille/2016/10/tramway-lisbonne-tourisme-visite.jpg.webp",
-        "categId": 3,
-        "destination": "Portugal",
-        "prix": [5500, 5200, 6300],
-        "remise": 0,
-        "duree": 7,
-        "description": "7 jours pour explorer le Portugal : Lisbonne (quartier de l'Alfama), Sintra (palais de Pena), Porto (caves de vin) et l'Algarve (falaises spectaculaires). Croisière sur le Douro et dégustation de porto incluses. Hôtels 3* bien situés.",
-        "depart": "05/06/2025",
-        "complet": false,
-        "offre": [
-          "Vol Tunis - Lisbonne - Tunis inclus",
-          "Transport en minibus privé",
-          "6 nuits en hôtels 3* (petit-déjeuner)",
-          "Dégustation de vins à Porto",
-          "Croisière sur le fleuve Douro"
-        ],
-        "horsOffre": [
-          "Déjeuners et dîners (budget moyen 20-30€/repas)",
-          "Entrée dans certains monuments",
-          "Assurance annulation (optionnelle)"
-        ]
-      },
-      {
-        "id": 42,
-        "nom": "Escape to Bali : Jungle, Temples & Beaches",
-        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEMQK4L7Tgs2Ti7OKPIe2JIL4nf8qqkDROBA&s",
-        "categId": 2,
-        "destination": "Indonésie",
-        "prix": [8200, 7900, 9200],
-        "remise": 12,
-        "duree": 10,
-        "description": "10 jours en liberté à Bali : séjournez dans une villa privée avec piscine à Ubud, explorez les rizières de Tegallalang, les temples d'Uluwatu et les plages de Seminyak. Programme flexible avec chauffeur-guide francophone pour vos excursions. Possibilité d'extension vers les îles Gili.",
-        "depart": "Flexible (à partir de mars 2025)",
-        "complet": false,
-        "offre": [
-          "Vol Tunis - Denpasar - Tunis (avec escale)",
-          "7 nuits en villa ou hôtel 4* (petit-déjeuner)",
-          "Transferts privés aéroport/hôtel",
-          "Journée avec chauffeur-guide (8h/jour, 2 jours inclus)"
-        ],
-        "horsOffre": [
-          "Visa à l'arrivée (35 USD)",
-          "Activités optionnelles (surf, plongée, spa)",
-          "Repas (sauf petits-déjeuners)"
-        ]
-      },
-      {
-        "id": 43,
-        "nom": "Maroc Authentique : Fès, Merzouga & Chefchaouen",
-        "photo": "https://lemagdusenior.ouest-france.fr/images/dossiers/2023-01/kasbah-ait-ben-haddou-100520.jpg",
-        "categId": 2,
-        "destination": "Maroc",
-        "prix": [4800, 4500, 5500],
-        "remise": 5,
-        "duree": 8,
-        "description": "8 jours en autonomie avec voiture de location incluse : découvrez Fès (médina classée), la vallée du Ziz, une nuit en bivouac dans le désert de Merzouga, et les ruelles bleues de Chefchaouen. Itinéraire modifiable selon vos envies. Hébergement en riads charmants.",
-        "depart": "Toute l'année (éviter juillet-août)",
-        "complet": false,
-        "offre": [
-          "Vol Tunis - Fès - Tunis inclus",
-          "Location de voiture (cat. B, kilométrage illimité)",
-          "7 nuits en riad/hôtel 3* (petit-déjeuner)",
-          "Nuit en bivouac sous les tentes (dîner inclus)"
-        ],
-        "horsOffre": [
-          "Essence et péages",
-          "Guide local pour le désert (optionnel)",
-          "Repas (sauf petit-déjeuner + 1 dîner)"
-        ]
-      },
-      {
-        "id": 44,
-        "nom": "Thaïlande Freedom : Capital & Islands",
-        "photo": "https://gourmetbag.fr/wp-content/uploads/2024/12/Ou-se-trouve-Bangkok.png",
-        "categId": 2,
-        "destination": "Thaïlande",
-        "prix": [7500, 7200, 8800],
-        "remise": 8,
-        "duree": 12,
-        "description": "12 jours en mode liberté : 3 nuits à Bangkok (temples, marchés flottants) + 7 nuits à Phuket (plages, excursions aux îles Phi Phi). Vols internes inclus. Hôtels bien situés, avec possibilité d'ajouter des activités (massage, snorkeling, etc.).",
-        "depart": "Nov 2025 - Avril 2026",
-        "complet": false,
-        "offre": [
-          "Vol Tunis - Bangkok - Tunis (avec escale)",
-          "Vol domestique Bangkok - Phuket - Bangkok",
-          "10 nuits en hôtels 3-4* (petit-déjeuner)",
-          "Transferts aéroport/hôtel privés"
-        ],
-        "horsOffre": [
-          "Visa si séjour > 30 jours (gratuit pour 15-30 jours)",
-          "Excursions en mer (environ 50-80€/jour)",
-          "Dépenses personnelles (budget repas : 15-20€/jour)"
-        ]
-      },
-      {
-        "id": 45,
-        "nom": "Canada Autotour : Toronto, Niagara & Nature",
-        "photo": "https://www.state.gov/wp-content/uploads/2019/04/Canada-e1556023963820-1642x924.jpg",
-        "categId": 1,
-        "destination": "Canada",
-        "prix": [15000, 14500, 17000],
-        "remise": 0,
-        "duree": 10,
-        "description": "10 jours de road trip en Ontario : visite de Toronto (CN Tower), chutes du Niagara, parc Algonquin et Ottawa. Voiture de location incluse (cat. SUV). Hébergement en hôtels 3* et lodges. Itinéraire personnalisable avec notre appli voyage.",
-        "depart": "17/11/2025",
-        "complet": false,
-        "offre": [
-          "Vol Tunis - Toronto - Tunis (via Europe)",
-          "Location de voiture (10 jours, assurance comprise)",
-          "9 nuits en hôtels/lodges (petit-déjeuner)",
-          "Guide numérique avec itinéraires conseillés"
-        ],
-        "horsOffre": [
-          "Visa canadien (100 CAD)",
-          "Essence et parkings (environ 300 CAD)",
-          "Entrées aux sites (Niagara : 25 CAD)"
-        ]
-      },
-      {
-        "id": 46,
-        "nom": "Égypte sur Mesure : Pyramides & Felouque",
-        "photo": "https://ulysse.com/news/wp-content/uploads/2024/07/Les-pyramides-de-Gizeh-Egypte-1536x931.jpg",
-        "categId": 1,
-        "destination": "Égypte",
-        "prix": [4500, 4000, 5000],
-        "remise": 10,
-        "duree": 8,
-        "description": "8 jours combinant visites libres et accompagnées : 3 nuits au Caire (pyramides, musée égyptien) + 4 nuits en croisière sur le Nil (Louxor, Assouan) avec guide privatisé. Logement en hôtel 4* et bateau 5*. Option felouque ou train de nuit possible.",
-        "depart": "12/10/2025",
-        "complet": false,
-        "offre": [
-          "Vol Tunis - Le Caire - Tunis inclus",
-          "3 nuits au Caire (hôtel 4*) + 4 nuits en croisière",
-          "Guide francophone (2 jours inclus)",
-          "Billet d'entrée pour les pyramides"
-        ],
-        "horsOffre": [
-          "Visa à l'arrivée (25 USD)",
-          "Pourboires (guides, équipage)",
-          "Boissons pendant la croisière"
-        ]
-      }
+      }    
   ]
 }
